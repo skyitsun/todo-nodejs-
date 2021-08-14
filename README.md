@@ -5,7 +5,5 @@
 - node 버전 : 14.17.5
 - npm 버전 : 6.14.14
 - 개발툴 : vscode
-- express : 4.17.1
-- mysql2 : 2.3.0
-- sequelize :  6.6.5
-- body-parser : 1.19.0
+
+package.json start에    "start": "node ./bin/www"
