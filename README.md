@@ -8,3 +8,4 @@
 - express : 4.17.1
 - mysql2 : 2.3.0
 - sequelize :  6.6.5
+- body-parser : 1.19.0
