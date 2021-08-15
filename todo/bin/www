@@ -4,8 +4,10 @@
  * Module dependencies.
  */
 
+require('dotenv').config();
+
 var app = require('../app');
-var debug = require('debug')('todolist:server');
+var debug = require('debug')('todo:server');
 var http = require('http');
 
 /**
